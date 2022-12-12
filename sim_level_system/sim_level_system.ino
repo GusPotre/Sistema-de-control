@@ -13,10 +13,10 @@
  *		10 : ZSC_in		[LED (salida)]
  *		 9 : SVO_in		[LED (salida)]
  *		 8 : SVC_in		[LED (salida)]
- *		 7 : PBO_out	[LED (salida)] Botón
- *		 6 : PBC_out	[LED (salida)] Botón
- *		 5 : ZSO_out	[Botón (entrada, activo en alto)] LED 
- *		 4 : ZSC_out	[Botón (entrada, activo en alto)] LED
+ *		 7 : PBO_out	[Botón (entrada, activo en alto)] 
+ *		 6 : PBC_out	[Botón (entrada, activo en alto)]
+ *		 5 : ZSO_out	[LED (salida)]
+ *		 4 : ZSC_out	[LED (salida)]
  *		 3 : SVO_out	[LED (salida)]
  *		 2 : SVC_out 	[LED (salida)]
  */
